@@ -1,4 +1,7 @@
 @echo off
+rem Script de createFiles
+rem Autor:Adrian Murillo Ledesma
+rem fecha: 20-11-2024
 
 echo menu de creacion de archivos
 
